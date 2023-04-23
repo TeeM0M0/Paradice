@@ -59,4 +59,4 @@ Dice6/10/20/100/Xpool sont des classes fille de Dicepool elles permettent la cr√
 
 ## Video presentation du projet :
 
-https://youtu.be/rgmf_-vSd5Q
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
