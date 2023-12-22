@@ -1,6 +1,6 @@
 # Paradice
 
-Paradice est une application codée en Flutter dans le cadre de mes études en BTS SIO option SISR.
+Paradice est une application codée en Flutter dans le cadre de mes études en BTS SIO option SLAM.
 Cette application permet de lancer des dés, qu'il soit personnalisé ou déjà créée et de récupérer les résultats 
 et statistiques des différents lancés.
 
